@@ -17,7 +17,6 @@ HR professional with experience in compensation and benefits management, holding
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="20"/> Studio   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="20"/> Linguagem R   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="20"/> Matplotlib 
-          
 
 <!--
 **wesley-lacerda/wesley-lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
