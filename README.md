@@ -5,7 +5,7 @@ HR professional with experience in compensation and benefits management, holding
 ### About me
 
   🇧🇷 I'm Brazilian  
-  👨🏼‍🎓 I'm graduated as Bussiness  
+  👨🏼‍🎓 I'm graduated in Bussiness   
   📚 I'm currently learning Data Science at EBAC  
   🎯 Goals: Work as a Data Scientist  
   📍 Based in Munich / Germany  
