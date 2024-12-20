@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi there 👋, welcome to my Github
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wesley+Lacerda;I'm+34+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+HR professional with experience in compensation and benefits management, holding a degree in Business Administration and currently studying Data Science. Specialist in HR policies, personnel movement processes, and performance indicator analysis. Proven ability to optimize processes and promote employee well-being, leading to increased efficiency and engagement. Advanced skills in PowerPoint and Excel, and fluent in English.
+
+### About me
+
+  👨🏼‍🎓 I'm graduated as Bussiness  
+  📚 I'm currently learning Data Science at EBAC  
+  🎯 Goals: Work as a Data Scientist  
 
 <!--
 **wesley-lacerda/wesley-lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
