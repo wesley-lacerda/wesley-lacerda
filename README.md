@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my Github
 
-HR professional with experience in compensation and benefits management, holding a degree in Business Administration and currently studying Data Science. 
+HR professional with experience in compensation and benefits management, holding a degree in Business Administration and currently studying Data Science at EBAC. 
 
 ### About me
 
