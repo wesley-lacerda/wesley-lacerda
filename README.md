@@ -1,12 +1,14 @@
 ## Hi there 👋, welcome to my Github
 
-HR professional with experience in compensation and benefits management, holding a degree in Business Administration and currently studying Data Science. Specialist in HR policies, personnel movement processes, and performance indicator analysis. Proven ability to optimize processes and promote employee well-being, leading to increased efficiency and engagement. Advanced skills in PowerPoint and Excel, and fluent in English.
+HR professional with experience in compensation and benefits management, holding a degree in Business Administration and currently studying Data Science. 
 
 ### About me
 
+  🇧🇷 I'm Brazilian 
   👨🏼‍🎓 I'm graduated as Bussiness  
   📚 I'm currently learning Data Science at EBAC  
   🎯 Goals: Work as a Data Scientist  
+  📍 Based in Munich / Germany
 
 <!--
 **wesley-lacerda/wesley-lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
