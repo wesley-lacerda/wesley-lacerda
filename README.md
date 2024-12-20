@@ -18,6 +18,24 @@ HR professional with experience in compensation and benefits management, holding
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="20"/> Linguagem R   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="20"/> Matplotlib 
 
+### 🚀 Skills in Development
+
+   **Programming Languages:** Python, R, SQL  
+   **Libraries and Frameworks:** Seaborn, Matplotlib, Scikit-learn, Statsmodels  
+   **Data Visualization:** Power BI, Looker Studio  
+   **Analysis Techniques:** Clustering (k-means), Statistical Modeling  
+
+### 🌱 Ongoing Projects
+
+   **Exploratory Data Analysis:** Applying statistical techniques to identify patterns and trends in complex datasets.  
+	 **Predictive Models:** Developing machine learning models to forecast outcomes and support decision-making.  
+	 **Interactive Dashboards:** Creating dashboards in Power BI and Looker Studio for intuitive visualization of data and key metrics.  
+
+### 🎯 Goals
+   Apply acquired knowledge to practical projects that create real-world impact.  
+   Collaborate with the data science community to exchange experiences and foster continuous learning.  
+   Stay updated with trends and advancements in the field of Data Science.  
+
 <!--
 **wesley-lacerda/wesley-lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
