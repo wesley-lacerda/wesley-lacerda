@@ -9,6 +9,10 @@ HR professional with experience in compensation and benefits management, holding
   📚 I'm currently learning Data Science at EBAC  
   🎯 Goals: Work as a Data Scientist  
   📍 Based in Munich / Germany  
+
+### Courses
+  📚 HARVARD: CS50’s Introduction to Programming with Python - Done  
+  📚 HARVARD: CS50’s Computer Science for Business Professionals - On Going  
   
 ### Tools
 
